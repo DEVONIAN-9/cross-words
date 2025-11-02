@@ -1,0 +1,222 @@
+{
+  "name": "Oval Balls",
+  "setter": "Le Petit Generale",
+  "N": 15,
+  "cells": [
+    "_#_#_#_###_#_#_",
+    "_____________#_",
+    "_#_#_#_#_#_#_#_",
+    "_#____#________",
+    "_###_#_#_#_###_",
+    "___________#___",
+    "_#_#_#_###_#_#_",
+    "#___#_____#___#",
+    "_#_#_###_#_#_#_",
+    "___#___________",
+    "_###_#_#_#_###_",
+    "________#____#_",
+    "_#_#_#_#_#_#_#_",
+    "_#_____________",
+    "_#_#_###_#_#_#_"
+  ],
+  "clues": [
+    {
+      "direction": "across",
+      "number": 8,
+      "text": "Go on for the French",
+      "solution": "ALLEZLESBLEUS"
+    },
+    {
+      "direction": "across",
+      "number": 10,
+      "text": "David's brother losing head after a thousand grapple",
+      "solution": "MAUL"
+    },
+    {
+      "direction": "across",
+      "number": 11,
+      "text": "Countrywide step down from Prem",
+      "solution": "NATIONAL"
+    },
+    {
+      "direction": "across",
+      "number": 13,
+      "text": "4, 7 and 31 come together here",
+      "solution": "AUSTRALASIA"
+    },
+    {
+      "direction": "across",
+      "number": 15,
+      "text": "Fly Half loses direction in French end",
+      "solution": "FIN"
+    },
+    {
+      "direction": "across",
+      "number": 16,
+      "text": "Goodwill promotion by Jack for Welsh hard man",
+      "solution": "JPR"
+    },
+    {
+      "direction": "across",
+      "number": 17,
+      "text": "Adieu and goodbye take in Welsh whizz",
+      "solution": "IEUAN"
+    },
+    {
+      "direction": "across",
+      "number": 19,
+      "text": "Arthur Conan Doyle covers club competition",
+      "solution": "URC"
+    },
+    {
+      "direction": "across",
+      "number": 24,
+      "text": "S. American predator cut in half by Argentina's governors",
+      "solution": "UAR"
+    },
+    {
+      "direction": "across",
+      "number": 25,
+      "text": "Red Rose stoppers provide Red Rose awards",
+      "solution": "ENGLISHCAPS"
+    },
+    {
+      "direction": "across",
+      "number": 27,
+      "text": "No pressure in sending on subs for tightening boots",
+      "solution": "RELACING"
+    },
+    {
+      "direction": "across",
+      "number": 29,
+      "text": "Noel in big falls for 3's flyer",
+      "solution": "ANGE"
+    },
+    {
+      "direction": "across",
+      "number": 32,
+      "text": "NEW",
+      "solution": "THREEQUARTERS"
+    },
+    {
+      "direction": "down",
+      "number": 1,
+      "text": "Bleaters play fast and loose",
+      "solution": "BAABAAS"
+    },
+    {
+      "direction": "down",
+      "number": 2,
+      "text": "Roast 9's coach from South",
+      "solution": "SLAM"
+    },
+    {
+      "direction": "down",
+      "number": 3,
+      "text": "Get the blues in Eternal City",
+      "solution": "AZZURRI"
+    },
+    {
+      "direction": "down",
+      "number": 4,
+      "text": "Fresh fanatic without books and ",
+      "solution": "NEW"
+    },
+    {
+      "direction": "down",
+      "number": 5,
+      "text": "Philistine spy questioned by the Welsh",
+      "solution": "DELILAH"
+    },
+    {
+      "direction": "down",
+      "number": 6,
+      "text": "Sixth sense? No, but see a broadcaster",
+      "solution": "ESPN"
+    },
+    {
+      "direction": "down",
+      "number": 7,
+      "text": "See 4",
+      "solution": "ZEALAND"
+    },
+    {
+      "direction": "down",
+      "number": 9,
+      "text": "Flash sabre at West country bruins",
+      "solution": "BEARS"
+    },
+    {
+      "direction": "down",
+      "number": 12,
+      "text": "No snow, and Aucklanders are down",
+      "solution": "BLUE"
+    },
+    {
+      "direction": "down",
+      "number": 14,
+      "text": "Senior copper in competition for 13",
+      "solution": "SUPER"
+    },
+    {
+      "direction": "down",
+      "number": 15,
+      "text": "Number 8, but for 3",
+      "solution": "FORZA"
+    },
+    {
+      "direction": "down",
+      "number": 18,
+      "text": "Cabs lose time for 9, 10, 12",
+      "solution": "AXIS"
+    },
+    {
+      "direction": "down",
+      "number": 20,
+      "text": "Tom and Ben's rubies",
+      "solution": "CURRIES"
+    },
+    {
+      "direction": "down",
+      "number": 21,
+      "text": "Witty left-winger - "off you go"",
+      "solution": "REDCARD"
+    },
+    {
+      "direction": "down",
+      "number": 22,
+      "text": "Eyes Blacks and Blues",
+      "solution": "SHINERS"
+    },
+    {
+      "direction": "down",
+      "number": 23,
+      "text": "Wrongly attack - sounds like Springbok Montgomery to his team-mates",
+      "solution": "ASPERSE"
+    },
+    {
+      "direction": "down",
+      "number": 26,
+      "text": "For example, not positive going backwards for front-rower",
+      "solution": "GENGE"
+    },
+    {
+      "direction": "down",
+      "number": 28,
+      "text": "Many head east to see 31 ex-player",
+      "solution": "LOTE"
+    },
+    {
+      "direction": "down",
+      "number": 30,
+      "text": "Green and gold enforcer has been muddled",
+      "solution": "EBEN"
+    },
+    {
+      "direction": "down",
+      "number": 31,
+      "text": "An American in part of 13",
+      "solution": "AUS"
+    }
+  ]
+}
